@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-theme-about-me",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.18.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.18.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "@mdx-js/react": "^1.5.3",
+    "gatsby-image": "^2.2.37",
+    "gatsby-plugin-sharp": "^2.3.10",
+    "gatsby-source-filesystem": "^2.1.43",
+    "gatsby-theme-ui": "^0.2.0",
+    "gatsby-transformer-remark": "^2.6.45",
+    "gatsby-transformer-sharp": "^2.3.9",
+    "theme-ui": "^0.2.52",
+    "typeface-inter": "^3.11.2"
+  }
+}
