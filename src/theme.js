@@ -1,5 +1,3 @@
-import { Flex } from "theme-ui";
-
 export const theme = {
   initialColorMode: "default",
   space: [0, 4, 8, 16, 32, 48, 64],
